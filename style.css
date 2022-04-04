@@ -1,0 +1,81 @@
+body{
+  background-image:url("background.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  font-family: monospace;
+  color: white;
+}
+
+
+.container{
+  width: 1000px;
+  margin: auto;
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  border-radius: 30PX;
+  background-color: #000000;
+  opacity: 0.67;
+}
+
+
+
+
+.logo{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%;
+}
+
+
+.text-logo{
+text-align: center;
+color: #12ef12;
+}
+
+
+.row{
+ background-color: #12ef12;
+ text-align: center;
+ padding: 10px;
+}
+
+
+.row button{
+  width: auto;
+  margin-right:6px;
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+
+
+
+h2, h3{
+  display: inline-block;
+  margin-bottom: 2px;
+}
+
+h4{
+  margin-bottom: 1px;
+}
+
+
+.barr{
+  background-color: #edc891;
+  border-radius: 5px;
+}
+
+
+.second-barr{
+  background-color: #12ef12;
+  border-radius: 5px;
+}
+
+.Third-barr{
+  background-color: #cd603d;
+  border-radius: 5px;
+}
